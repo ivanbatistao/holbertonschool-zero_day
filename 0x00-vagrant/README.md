@@ -1,1 +1,1 @@
-Linux
+In this project, I learned about virtual machines and how to run Ubuntu in Vagrant.
