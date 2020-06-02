@@ -1,0 +1,1 @@
+In this part of the project, I have learned how to use Vi and basics Vi commands.
