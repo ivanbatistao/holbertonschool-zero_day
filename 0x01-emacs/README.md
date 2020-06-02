@@ -1,0 +1,1 @@
+In this project, I have learned about Emacs and how to use basic and useful Emacs commands.
