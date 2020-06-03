@@ -1,1 +1,0 @@
-In this part of the project, I have learned about Git and GitHub
